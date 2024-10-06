@@ -2,3 +2,4 @@ This is a basic text file
 Modified Now
 Modified even more
 Modified a third time
+Modified from local repo
