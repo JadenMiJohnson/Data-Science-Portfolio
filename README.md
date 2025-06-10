@@ -1,7 +1,7 @@
 # Data Scientist/Analyst Portfolio
 
-#### Programming Languages: Python, C++, Excel, Java
-#### Libraries/Frameworks: Selenium, Pandas, Numpy, Seaborn, Matplotlib
+#### Programming Languages: Python, C++, Excel, Java, SQL
+#### Libraries/Frameworks: Selenium, Pandas, Numpy, Seaborn, Matplotlib, Tableau
 #### Development Tools: MATLAB, Visual Studio Code, Jira, Bitbucket, Git
 #### License/Certifications: Active Secret Clearance
 
@@ -21,3 +21,7 @@
 - Implemented program onto the consumer product with exceptional proficiency in utilizing development tools such as Jira, Bitbucket, and Git, ensuring seamless integration and maintaining version control throughout the entire development lifecycle, successfully deploying a high-quality and feature-rich product to the market.
 - Troubleshooted Docker Packages, Network Errors, and Programming errors to deliver objectives.
 - Briefed mission statement to peers, effectively conveying the organizational goals and facilitating a shared understanding among team members, fostering collaboration and alignment toward achieving common objectives.
+
+## 📁 Projects
+
+- [🏀 Wemby Impact Analysis (2024–25 Spurs)](./wemby-impact-analysis)
